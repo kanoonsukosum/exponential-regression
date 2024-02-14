@@ -15,7 +15,7 @@ Although this project's content is provided under CC0 1.0, the datasets used fro
 "Data sourced from The World Bank - Country Data, available at [https://data.worldbank.org/country](https://data.worldbank.org/country), licensed under CC BY 4.0."
 
 ## Installation
-Ensure Python 3.x is installed on your system. Clone this repository, then install the required libraries using pip: ``pip install numpy matplotlib pandas scipy scikit-learn``
+Ensure Python 3.x is installed on your system. Clone this repository, then install the required libraries using pip: ``pip install pandas numpy scipy matplotlib``
 
 ## Usage
 Run the script from your terminal or command prompt: ``python exponential_regress.py``
